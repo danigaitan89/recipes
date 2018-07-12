@@ -1,0 +1,9 @@
+Ingredients:
+ - Yougurt
+ - Banana
+ - Pineapple
+ - Honey
+ - Cereal
+
+Directions:
+  1. Mix them all.
